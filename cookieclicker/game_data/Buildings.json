@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Cursor",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 15,
+        "base_cps": 0.1
+    },
+    {
+        "name": "Grandma",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 100,
+        "base_cps": 1
+    },
+    {
+        "name": "Farm",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 1100,
+        "base_cps": 8
+    },
+    {
+        "name": "Mine",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 12000,
+        "base_cps": 47
+    },
+    {
+        "name": "Factory",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 130000,
+        "base_cps": 260
+    },
+    {
+        "name": "Bank",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 1400000,
+        "base_cps": 1400
+    },
+    {
+        "name": "Temple",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 20000000,
+        "base_cps": 7800
+    },
+    {
+        "name": "Wizard Tower",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 330000000,
+        "base_cps": 44000
+    },
+    {
+        "name": "Shipment",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 5100000000,
+        "base_cps": 260000
+    },
+    {
+        "name": "Alchemy Lab",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 75000000000,
+        "base_cps": 1600000
+    },
+    {
+        "name": "Portal",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 1000000000000,
+        "base_cps": 10000000
+    },
+    {
+        "name": "Time Machine",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 14000000000000,
+        "base_cps": 65000000
+    },
+    {
+        "name": "Antimatter Condenser",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 170000000000000,
+        "base_cps": 430000000
+    },
+    {
+        "name": "Prism",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 2100000000000000,
+        "base_cps": 2900000000
+    },
+    {
+        "name": "Chancemaker",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 26000000000000000,
+        "base_cps": 21000000000
+    },
+    {
+        "name": "Fractal Engine",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 310000000000000000,
+        "base_cps": 150000000000
+    },
+    {
+        "name": "Javascript Console",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 4100000000000000000,
+        "base_cps": 1100000000000
+    },
+    {
+        "name": "Idleverse",
+        "object_type": "Building",
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "base_cost": 51000000000000000000,
+        "base_cps": 8500000000000
+    }
+]
